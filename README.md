@@ -176,6 +176,15 @@ See the sample below of an aggregation pipeline (for brevity, the triggers and m
 ```
 
 # Flogo Rules
+Processing Events in real-time to determine next best action is an important function of Event driven applications. With the vast amount of events that is generated from different sources making sense of the information in a given context can be immensely valuable. 
+
+Rules support for the Project Flogo Ecosystem simplifies the complexity involved with real-time contextual decisions.
+
+Flogo Rules supports
+
+- Declarative Rules to define Conditions Rule triggers and resulting Actions
+- Joins/Correlations across Event sources
+
 
 ## Getting Started
 Build your Declarative Rules app as a Flogo Action type or execute as a standalone lib 
